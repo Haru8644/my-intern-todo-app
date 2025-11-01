@@ -84,3 +84,21 @@ li button {
 li button:hover {
   background: rgba(0 0 0 / 0.4);
 }
+
+li.expired{
+  background:#fcc;
+}
+
+li label p{
+  margin: 0 20px 4px;
+  font-size: 0.8em;
+  color: #555;
+  line-height: 1em;
+}
+
+li label span{
+  font-size: 0.8em;
+  vertical-align: top;
+  color:#999;
+  margin-right: 8px;
+}
